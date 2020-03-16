@@ -16,5 +16,6 @@ public class Hello {
         response = keyboard.next();
         System.out.println("Wow! I've always wanted to go to " + response + ". Thanks for chatting with me. Bye!");
 
+        //added comment for lab6
     }
 }
